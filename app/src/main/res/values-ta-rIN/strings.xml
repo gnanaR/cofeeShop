@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">justjavanew</string>
+    <string name="name_hint">இங்கே உங்கள் பெயரை உள்ளிடவும்</string>
+    <string name="topping_type">தேவைப்பட்டால் தேர்வு செய்யவும்</string>
+    <string name="whipped_cream">பதப்படுத்தப்பட்ட பால் கிரீம்</string>
+    <string name="chocolate">சாக்லேட்</string>
+    <string name="quantity">தேவையான அளவு</string>
+    <string name="order_summary">மொத்த ஆர்டர்</string>
+    <string name="welcome">எங்களை தேர்ந்தெடுத்ததற்கு நன்றி.\\nஉங்கள் தேவையை உள்ளிடுக</string>
+    <string name="order">சமர்ப்பிக்க</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">justjavanew</string>
+    <string name="name_hint">Enter Your Name here</string>
+    <string name="topping_type">CHOOSE A TOPPING</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="welcome">Welcome\nPlace Your Order\n\nTry Our New Topping</string>
+    <string name="order">Order</string>
+</resources>
